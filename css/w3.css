@@ -2,6 +2,10 @@
  html{
     box-sizing:border-box
 }
+#vid{
+  margin-left: -100px
+  margin-top: -100px
+}
 *,*:before,*:after{
     box-sizing:inherit
 }
