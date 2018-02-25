@@ -443,6 +443,11 @@ a{
     float:left;
     width:100%
 }
+
+ .w3-pos{
+   width:0%
+   vertical-align:top
+}
  .w3-col.s1{
     width:8.33333%
 }
